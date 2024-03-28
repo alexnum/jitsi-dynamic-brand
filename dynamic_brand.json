@@ -1,5 +1,5 @@
 {
-    "customIcons": {
-        "IconConnection": "https://raw.githubusercontent.com/jitsi/jitsi-meet/5247fbdc0f7d6bef995c3312224e25b017182f97/react/features/base/icons/svg/bluetooth.svg"
+    customIcons: {
+        IconConnection: 'https://raw.githubusercontent.com/jitsi/jitsi-meet/5247fbdc0f7d6bef995c3312224e25b017182f97/react/features/base/icons/svg/bluetooth.svg'
     }
 }
